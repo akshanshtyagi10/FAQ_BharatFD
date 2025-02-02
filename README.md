@@ -34,7 +34,6 @@ Follow these steps to set up and run the project:
     ```bash
     python -m venv venv
     .\venv\Scripts\activate  # For Windows
-    source venv/bin/activate  # For macOS/Linux
     ```
 
 3. Install dependencies:
